@@ -184,14 +184,14 @@
         name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "https://github.com/SneakyChocolateBar/basicBot/blob/master/commands.md",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "IronBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
